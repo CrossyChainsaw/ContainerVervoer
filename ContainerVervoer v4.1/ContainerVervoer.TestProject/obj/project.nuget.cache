@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUN+/DkbV0URDYbyikveWJ4twNz1/uoDFUpgwjyPFMbhBS69TscKq8yfdI218tRLkdl2TT3v36Ezj3oOJKBk7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaan-\\source\\repos\\ContainerVervoer\\ContainerVervoer.TestProject\\ContainerVervoer.TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
