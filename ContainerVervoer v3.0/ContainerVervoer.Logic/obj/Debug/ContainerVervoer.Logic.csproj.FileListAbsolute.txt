@@ -1,6 +1,0 @@
-C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Logic\bin\Debug\ContainerVervoer.Logic.dll
-C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Logic\bin\Debug\ContainerVervoer.Logic.pdb
-C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Logic\obj\Debug\ContainerVervoer.Logic.csproj.AssemblyReference.cache
-C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Logic\obj\Debug\ContainerVervoer.Logic.csproj.CoreCompileInputs.cache
-C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Logic\obj\Debug\ContainerVervoer.Logic.dll
-C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Logic\obj\Debug\ContainerVervoer.Logic.pdb
