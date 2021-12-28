@@ -1,0 +1,36 @@
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\nunit.engine.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.TestProject.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.TestProject.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\nunit.framework.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.Logic.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.Logic.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.csproj.CopyComplete
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\nunit.engine.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.TestProject.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.TestProject.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\nunit.framework.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.Logic.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\bin\Debug\net472\ContainerVervoer.Logic.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.csproj.CopyComplete
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.TestProject\obj\Debug\net472\ContainerVervoer.TestProject.pdb

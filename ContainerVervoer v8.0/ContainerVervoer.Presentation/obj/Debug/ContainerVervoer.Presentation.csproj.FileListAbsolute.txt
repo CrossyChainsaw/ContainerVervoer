@@ -1,0 +1,26 @@
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Presentation.exe.config
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Presentation.exe
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Presentation.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Logic.dll
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Logic.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.Form1.resources
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.Properties.Resources.resources
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.exe
+C:\Users\kaan-\source\repos\ContainerVervoer\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Presentation.exe.config
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Presentation.exe
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Presentation.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Logic.dll
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\bin\Debug\ContainerVervoer.Logic.pdb
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.Form1.resources
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.Properties.Resources.resources
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.exe
+C:\Users\kaan-\source\repos\ContainerVervoer v7.0\ContainerVervoer.Presentation\obj\Debug\ContainerVervoer.Presentation.pdb
